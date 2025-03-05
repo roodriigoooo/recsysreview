@@ -1,3 +1,5 @@
+Collaborative-Filtering, Content-Based Filtering, Hybrid Methods, and Specialized Methods soon.
+
 Summary
 =======
 
