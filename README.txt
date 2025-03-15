@@ -1,4 +1,5 @@
-Collaborative-Filtering, Content-Based Filtering, Hybrid Methods, and Specialized Methods soon.
+An intro to Recommender Systems exploring and implementing, among other things, Non-Personalised Methods of Recommendation, Collaborative-Filtering, Content-Based Filtering, Hybrid Methods, and Specialized Methods.
+Updating soon**
 
 Summary
 =======
