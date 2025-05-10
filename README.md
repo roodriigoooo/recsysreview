@@ -1,6 +1,6 @@
 ## Recommender Systems 
 
-An exploration and review of *Non-Personalised* and *Collaborative-Filtering based* recommender methods (including *Matrix Factorization* for the Recommender Systems course taught by **Marc Torrens, PhD**
+An exploration and review of *Non-Personalised* and *Collaborative-Filtering based* recommender methods (including *Matrix Factorization*) for the Recommender Systems course taught by **Marc Torrens, PhD**
 at ESADE Ramón Llull University. 
 
 #### Data Used
